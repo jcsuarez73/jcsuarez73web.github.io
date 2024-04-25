@@ -9,7 +9,7 @@
 #
 # Review documentation to determine if you should use `theme` or `remote_theme`
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
-
+*Italic Letra*
 # theme                  : "minimal-mistakes-jekyll"
 remote_theme             : "mmistakes/minimal-mistakes@4.15.1"
 minimal_mistakes_skin    : "haxor" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
@@ -104,7 +104,7 @@ author:
   name             : "Juan Carlos Suarez"
   avatar           : "/assets/images/avatar.png"
   bio              : "Pentester, SysAdmin<br>HackTheBox ATeam-Disponible"
-  *location*       : "Madrid/Spain"
+  location         : *"Madrid/Spain"*
   email            : "info@jcsuarez73.io"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
@@ -118,7 +118,7 @@ author:
   gitlab           :
   google_plus      :
   keybase          : "jcsuarez73"
-  instagram        :
+  instagram        : "jcsuarez73"
   lastfm           :
   linkedin         : # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
   pinterest        :
