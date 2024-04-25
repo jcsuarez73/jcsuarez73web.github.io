@@ -101,7 +101,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Juan Carlos Suarez Gil"
+  name             : **"Juan Carlos Suarez Gil"**
   avatar           : "/assets/images/avatar.png"
   bio              : "Pentester, SysAdmin<br>HackTheBox ATeam-Disponible"
   location         : "Madrid/Spain"
